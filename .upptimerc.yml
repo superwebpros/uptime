@@ -19,6 +19,186 @@ sites:
     url: https://www.playmakers.com
   - name: Playmakers Store
     url: https://shop.playmakers.com
+  - name: Absolute Environmental Solutions		
+    url: https://www.aesinspect.com
+  - name: MI Great Lakes Fishing		
+    url: https://www.migreatlakesfish.com
+  - name: PhoRTE		
+    url: https://www.phorte.org
+  - name: Living Water Ministries		
+    url: https://www.elcalivingwater.com
+  - name: Eli's Project		
+    url: https://www.elisproject.org
+  - name: Confident Clinician		
+    url: https://www.confidentclinician.com
+  - name: MC - Fields of Growth
+    url: https://www.fieldsforgrowth.net
+  - name: The Chick Hatchery		
+    url: https://thechickhatchery.com
+  - name: Bart Moore		
+    url: https://www.bartmooremusic.com
+  - name: Lucky Little Learners Main
+    url: https://www.luckylittlelearners.com
+  - name: Luck Little Learners Shop
+    url: https://shop.luckylittlelearners.com
+  - name: Crenshaw Peterson		
+    url: https://www.crenshawpeterson.com
+  - name: Michigan Veterinary Medical Association		
+    url: https://www.michvma.org
+  - name: MC - Senior Stages LLC		
+    url: https://www.seniorstagesllc.com
+  - name: Open Arms Link		
+    url: https://www.myopenarms.net
+  - name: Acme Home Exteriors		
+    url: https://acmehomeexteriors.com
+  - name: Last Light Search		
+    url: https://www.lastlightsearch.com
+  - name: East Hill Farm		
+    url: https://east-hill-farm.com
+  - name: ReKap Voice		
+    url: https://www.rekapvoice.com
+  - name: Chris Stewart		
+    url: https://https://www.friendsofchrisstewart.com
+  - name: The Gillespie Company		
+    url: https://www.gillespie-group.com
+  - name: Footprints of Michigan		
+    url: https://www.footprintsofmichigan.org
+  - name: mConnexions - Mid-Michigan Treatment Court Foundation		
+    url: https://www.mid-michigantreatmentcourtsfoundation.org
+  - name: Michigan Animal Health Foundation		
+    url: https://www.michanimalhealthfoundation.org
+  - name: NBHW (Neurobehaviorial Health & Wellness)		
+    url: https://www.nbhealthandwellness.com
+  - name: Patten Place		
+    url: https://www.pattenplace.com
+  - name: Habitat for Humanity - Capital Area		
+    url: https://www.habitatcr.org
+  - name: The Meta Center		
+    url: https://www.metactr.com
+  - name: A Wee Publishing Co		
+    url: https://aweepublishingco.com
+  - name: Advanced Satellite		
+    url: https://www.advancedsat.com
+  - name: PaladinID, LLC		
+    url: https://paladinid.com
+  - name: McNair Construction		
+    url: https://www.mcnairbuilds.com
+  - name: Sunrise Seamless		
+    url: https://www.sunriseseamless.com
+  - name: Bluestone Executive Communications		
+    url: https://www.bluestoneexec.com
+  - name: Greater Lansing Hispanic Chamber		
+    url: https://www.glhchamber.org
+  - name: Gibson School of Highland Dance		
+    url: https://gibsonhighlanddance.com
+  - name: Debra Goldstein		
+    url: https://www.debrahgoldstein.com
+  - name: Freddie's Joint		
+    url: https://www.freddiesjoint.com
+  - name: People Sense Consulting		
+    url: https://www.peoplesenseconsulting.com
+  - name: The Artist's Umbrella		
+    url: https://theartistsumbrella.us
+  - name: Cabinet Place Online		
+    url: https://www.cabinetplaceonline.com
+  - name: Sales Coaches Corner		
+    url: https://www.salescoachescorner.com
+  - name: IPM Inc.		
+    url: https://www.ipm-inc.com
+  - name: Help U Move Hawaii
+    url: https://www.help-u-movehawaii.com
+  - name: Monster Xtracts		
+    url: https://www.monsterxtracts.com
+  - name: Jacksons Moving, LLC		
+    url: https://www.jacksonsmovingllc.com
+  - name: Ground Master Lawn & Snow		
+    url: https://groundmasterlawn.com
+  - name: mConnexions		
+    url: https://www.mconnexions.com
+  - name: Strokes by Red
+    url: https://www.strokesbyred.com
+  - name: Loyal Yak/Shoe Sling		
+    url: https://getshoesling.com
+  - name: Safe Zone Living		
+    url: https://safezoneliving.com
+  - name: Above the Roots		
+    url: https://www.abovetherootsmi.com
+  - name: Mima Remedies		
+    url: https://www.mimaremedies.com
+  - name: MSB Holdings		
+    url: https://www.msbholdings.com
+  - name: NAI Mid-Michigan		
+    url: https://www.naimidmichigan.com
+  - name: Wolverine Water Systems		
+    url: https://www.wolverinewatersystems.com
+  - name: Capital Area Humane Society		
+    url: https://www.cahs-lansing.org
+  - name: Earth to Malibu		
+    url: https://earthtomalibu.com
+  - name: Front Room Underfashions		
+    url: https://frontroomunderfashions.com
+  - name: Transpac		
+    url: https://www.gotranspac.com
+  - name: NDA Movers
+    url: https://ndamovers.com
+  - name: The Izzo Legacy		
+    url: https://www.izzolegacy.com
+  - name: Sportspeed
+    url: https://www.sportspeed.com
+  - name: Jesse's Personal Account
+    url: https://jesse-flores.com
+  - name: Toby White Law		
+    url: https://tobywhitelaw.com
+  - name: ePIFanyNow		
+    url: https://epifanynow.org
+  - name: Uno Deuce Media		
+    url: https://unodeuce.com
+  - name: Weather Vane Roofing
+    url: https://www.weathervaneroofing.com
+  - name: Holt & Dimondale Agency		
+    url: https://holtdimondaleagency.com
+  - name: Thai Street Kitchen		
+    url: https://www.thaistreetkitchen.com
+  - name: The Trainer's Studio		
+    url: https://www.thetrainersstudio.com
+  - name: Preuss Pets		
+    url: https://www.preusspets.com
+  - name: Orange Insoles		
+    url: https://orangeinsoles.com
+  - name: Open Arms Link		
+    url: https://www.openarmslink.com
+  - name: Rufus Jackson Landing Page		
+    url: https://insurancesavingsmichigan.com
+  - name: Prodigal Pilgrim		
+    url: https://prodigalpilgrim.com
+  - name: Snack Sized Fiction
+    url: https://snacksizefiction.com
+  - name: Allison Writing Website		
+    url: https://www.allisonspoonerwriter.com
+  - name: Gods Dough		
+    url: https://www.godsdough.com/
+  - name: Crooked Trees Nursery		
+    url: https://crookedtreenursery.com
+  - name: Metro Obgyn		
+    url: https://www.metroobgyn.com
+  - name: Dy Dermatology - Wordpress
+    url: https://www.dydermatology.com
+  - name: Dy Dermatoloty - Shopify
+    url: https://shop.dydermatology.com
+  - name: SmileBond		
+    url: https://www.smilebond.com
+  - name: Exterior Grounds Management		
+    url: https://https://www.exteriorgroundsmanagement.com
+  - name: Shari Pash		
+    url: https://sharipash.com
+  - name: Murphy & Spagnuolo		
+    url: https://www.mbspclaw.com
+  - name: Fresh Pak		
+    url: https://freshpakinc.com
+  - name: Meta Center		
+    url: https://www.metactr.com
+  - name: Judge Flores		
+    url: https://www.retaintonyfloresforjudge.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,7 +206,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://www.superwebpros.com/wp-content/uploads/2021/04/cropped-SWP-logo-transparent-cropped-1024x226.png
-  # name: SuperWebPros
+  name: SuperWebPros
   introTitle: "**SuperWebPros** Site Monitoring"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
