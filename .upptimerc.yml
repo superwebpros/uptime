@@ -19,6 +19,10 @@ sites:
       - "Authorization: $AIRBYTE_AUTH"
   - name: Mautic
     url: https://mktg.superwebpros.com
+  - name: Metabase
+    url: https://mb.superwebpros.com
+  - name: PB
+    url: https://pb.superwebpros.com
   - name: Playmakers Main
     url: https://www.playmakers.com
   - name: Playmakers Store
