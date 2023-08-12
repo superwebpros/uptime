@@ -3,14 +3,22 @@ owner: superwebpros # Your GitHub organization or username, where this repositor
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Main Website
+    url: https://www.superwebpros.com
+  - name: ProHQ
+    url: https://app.superwebpros.com
+  - name: Budibase
+    url: https://tools.superwebpros.com
+  - name: n8n
+    url: https://n8n.superwebpros.com
+  - name: Baserow
+    url: https://br.superwebpros.com
+  - name: Airbyte
+    url: https://ab.superwebpros.com
+  - name: Playmakers Main
+    url: https://www.playmakers.com
+  - name: Playmakers Store
+    url: https://shop.playmakers.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,14 +26,12 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://www.superwebpros.com/wp-content/uploads/2021/04/cropped-SWP-logo-transparent-cropped-1024x226.png
-  name: SuperWebPros
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # name: SuperWebPros
+  introTitle: "**SuperWebPros** Site Monitoring"
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
