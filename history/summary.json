@@ -311,18 +311,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.luckylittlelearners.com.ico",
     "slug": "lucky-little-learners-main",
     "status": "down",
-    "uptime": "0.38%",
-    "uptimeDay": "0.38%",
-    "uptimeWeek": "0.38%",
-    "uptimeMonth": "0.38%",
-    "uptimeYear": "0.38%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 117,
     "timeDay": 117,
     "timeWeek": 117,
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2023-08-12": 4
+      "2023-08-12": 7
     }
   },
   {
@@ -385,18 +385,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.seniorstagesllc.com.ico",
     "slug": "mc-senior-stages-llc",
     "status": "down",
-    "uptime": "0.52%",
-    "uptimeDay": "0.52%",
-    "uptimeWeek": "0.52%",
-    "uptimeMonth": "0.52%",
-    "uptimeYear": "0.52%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 4
+      "2023-08-12": 7
     }
   },
   {
@@ -405,17 +405,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.myopenarms.net.ico",
     "slug": "open-arms-link",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 300,
-    "timeWeek": 300,
-    "timeMonth": 300,
-    "timeYear": 300,
-    "dailyMinutesDown": {}
+    "uptime": "88.78%",
+    "uptimeDay": "88.78%",
+    "uptimeWeek": "88.78%",
+    "uptimeMonth": "88.78%",
+    "uptimeYear": "88.78%",
+    "time": 296,
+    "timeDay": 296,
+    "timeWeek": 296,
+    "timeMonth": 296,
+    "timeYear": 296,
+    "dailyMinutesDown": {
+      "2023-08-12": 1
+    }
   },
   {
     "name": "Acme Home Exteriors",
@@ -495,18 +497,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/https.ico",
     "slug": "chris-stewart",
     "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 4
+      "2023-08-12": 7
     }
   },
   {
@@ -731,18 +733,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sunriseseamless.com.ico",
     "slug": "sunrise-seamless",
     "status": "down",
-    "uptime": "0.57%",
-    "uptimeDay": "0.57%",
-    "uptimeWeek": "0.57%",
-    "uptimeMonth": "0.57%",
-    "uptimeYear": "0.57%",
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 3
+      "2023-08-12": 6
     }
   },
   {
@@ -985,18 +987,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/groundmasterlawn.com.ico",
     "slug": "ground-master-lawn-and-snow",
     "status": "down",
-    "uptime": "11.95%",
-    "uptimeDay": "11.95%",
-    "uptimeWeek": "11.95%",
-    "uptimeMonth": "11.95%",
-    "uptimeYear": "11.95%",
+    "uptime": "6.31%",
+    "uptimeDay": "6.31%",
+    "uptimeWeek": "6.31%",
+    "uptimeMonth": "6.31%",
+    "uptimeYear": "6.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 3
+      "2023-08-12": 6
     }
   },
   {
@@ -1059,18 +1061,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/safezoneliving.com.ico",
     "slug": "safe-zone-living",
     "status": "down",
-    "uptime": "1.03%",
-    "uptimeDay": "1.03%",
-    "uptimeWeek": "1.03%",
-    "uptimeMonth": "1.03%",
-    "uptimeYear": "1.03%",
+    "uptime": "0.42%",
+    "uptimeDay": "0.42%",
+    "uptimeWeek": "0.42%",
+    "uptimeMonth": "0.42%",
+    "uptimeYear": "0.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 3
+      "2023-08-12": 6
     }
   },
   {
@@ -1241,18 +1243,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ndamovers.com.ico",
     "slug": "nda-movers",
     "status": "down",
-    "uptime": "0.31%",
-    "uptimeDay": "0.31%",
-    "uptimeWeek": "0.31%",
-    "uptimeMonth": "0.31%",
-    "uptimeYear": "0.31%",
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 3
+      "2023-08-12": 5
     }
   },
   {
@@ -1477,17 +1479,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.openarmslink.com.ico",
     "slug": "open-arms-link",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 300,
-    "timeWeek": 300,
-    "timeMonth": 300,
-    "timeYear": 300,
-    "dailyMinutesDown": {}
+    "uptime": "89.22%",
+    "uptimeDay": "89.22%",
+    "uptimeWeek": "89.22%",
+    "uptimeMonth": "89.22%",
+    "uptimeYear": "89.22%",
+    "time": 296,
+    "timeDay": 296,
+    "timeWeek": 296,
+    "timeMonth": 296,
+    "timeYear": 296,
+    "dailyMinutesDown": {
+      "2023-08-12": 1
+    }
   },
   {
     "name": "Rufus Jackson Landing Page",
@@ -1675,18 +1679,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/https.ico",
     "slug": "exterior-grounds-management",
     "status": "down",
-    "uptime": "0.73%",
-    "uptimeDay": "0.73%",
-    "uptimeWeek": "0.73%",
-    "uptimeMonth": "0.73%",
-    "uptimeYear": "0.73%",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 2
+      "2023-08-12": 5
     }
   },
   {
