@@ -15,6 +15,10 @@ sites:
     url: https://br.superwebpros.com
   - name: Airbyte
     url: https://ab.superwebpros.com
+    headers:
+      - "Authorization: $AIRBYTE_AUTH"
+  - name: Mautic
+    url: https://mktg.superwebpros.com
   - name: Playmakers Main
     url: https://www.playmakers.com
   - name: Playmakers Store
