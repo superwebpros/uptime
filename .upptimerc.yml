@@ -112,15 +112,13 @@ sites:
   - name: Jacksons Moving, LLC		
     url: https://www.jacksonsmovingllc.com
   - name: Ground Master Lawn & Snow		
-    url: https://groundmasterlawn.com
+    url: https://www.groundmasterlawnandsnow.com/
   - name: mConnexions		
     url: https://www.mconnexions.com
   - name: Strokes by Red
     url: https://www.strokesbyred.com
   - name: Loyal Yak/Shoe Sling		
     url: https://getshoesling.com
-  - name: Safe Zone Living		
-    url: https://safezoneliving.com
   - name: Above the Roots		
     url: https://www.abovetherootsmi.com
   - name: Mima Remedies		
@@ -139,8 +137,6 @@ sites:
     url: https://frontroomunderfashions.com
   - name: Transpac		
     url: https://www.gotranspac.com
-  - name: NDA Movers
-    url: https://ndamovers.com
   - name: The Izzo Legacy		
     url: https://www.izzolegacy.com
   - name: Sportspeed
@@ -188,7 +184,7 @@ sites:
   - name: SmileBond		
     url: https://www.smilebond.com
   - name: Exterior Grounds Management		
-    url: https://https://www.exteriorgroundsmanagement.com
+    url: https://www.exteriorgroundsmanagement.com
   - name: Shari Pash		
     url: https://sharipash.com
   - name: Murphy & Spagnuolo		
