@@ -365,11 +365,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/luckylittlelearners.com.ico",
     "slug": "lucky-little-learners-main",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 474,
     "timeDay": 140,
     "timeWeek": 474,
@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 1108,
+      "2023-08-13": 1115,
       "2023-08-12": 434
     }
   },
@@ -561,7 +561,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 1108,
+      "2023-08-13": 1115,
       "2023-08-12": 434
     }
   },
@@ -798,7 +798,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 1108,
+      "2023-08-13": 1115,
       "2023-08-12": 433
     }
   },
@@ -1042,11 +1042,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.groundmasterlawnandsnow.com.ico",
     "slug": "ground-master-lawn-and-snow",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "98.62%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
     "time": 153,
     "timeDay": 164,
     "timeWeek": 153,
@@ -1692,11 +1692,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.exteriorgroundsmanagement.com.ico",
     "slug": "exterior-grounds-management",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 297,
     "timeDay": 271,
     "timeWeek": 297,
@@ -1711,19 +1711,19 @@
     "url": "https://sharipash.com",
     "icon": "https://icons.duckduckgo.com/ip3/sharipash.com.ico",
     "slug": "shari-pash",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 662,
-    "timeDay": 655,
-    "timeWeek": 662,
-    "timeMonth": 662,
-    "timeYear": 662,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 678,
+    "timeDay": 683,
+    "timeWeek": 678,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {
-      "2023-08-13": 1
+      "2023-08-13": 7
     }
   },
   {
