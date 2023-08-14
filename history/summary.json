@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-14": 798,
+      "2023-08-14": 806,
       "2023-08-13": 1440,
       "2023-08-12": 434
     }
@@ -532,19 +532,19 @@
     "url": "https://www.rekapvoice.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.rekapvoice.com.ico",
     "slug": "re-kap-voice",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2807,
-    "timeDay": 821,
-    "timeWeek": 2807,
-    "timeMonth": 2807,
-    "timeYear": 2807,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 2600,
+    "timeDay": 572,
+    "timeWeek": 2600,
+    "timeMonth": 2600,
+    "timeYear": 2600,
     "dailyMinutesDown": {
-      "2023-08-14": 1
+      "2023-08-14": 8
     }
   },
   {
@@ -564,7 +564,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-14": 798,
+      "2023-08-14": 806,
       "2023-08-13": 1440,
       "2023-08-12": 434
     }
@@ -802,7 +802,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-14": 798,
+      "2023-08-14": 806,
       "2023-08-13": 1440,
       "2023-08-12": 433
     }
@@ -1047,11 +1047,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.groundmasterlawnandsnow.com.ico",
     "slug": "ground-master-lawn-and-snow",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
     "time": 162,
     "timeDay": 205,
     "timeWeek": 162,
@@ -1697,11 +1697,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.exteriorgroundsmanagement.com.ico",
     "slug": "exterior-grounds-management",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
     "time": 287,
     "timeDay": 240,
     "timeWeek": 287,
