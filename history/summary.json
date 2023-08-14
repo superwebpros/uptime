@@ -529,11 +529,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.friendsofchrisstewart.com.ico",
     "slug": "chris-stewart",
     "status": "up",
-    "uptime": "2.86%",
-    "uptimeDay": "5.55%",
-    "uptimeWeek": "2.86%",
-    "uptimeMonth": "2.86%",
-    "uptimeYear": "2.86%",
+    "uptime": "2.89%",
+    "uptimeDay": "5.60%",
+    "uptimeWeek": "2.89%",
+    "uptimeMonth": "2.89%",
+    "uptimeYear": "2.89%",
     "time": 438,
     "timeDay": 438,
     "timeWeek": 438,
@@ -778,7 +778,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-14": 920,
+      "2023-08-14": 921,
       "2023-08-13": 1440,
       "2023-08-12": 433
     }
