@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-14": 841,
+      "2023-08-14": 842,
       "2023-08-13": 1440,
       "2023-08-12": 434
     }
@@ -551,11 +551,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.friendsofchrisstewart.com.ico",
     "slug": "chris-stewart",
     "status": "up",
-    "uptime": "0.04%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 532,
     "timeDay": 532,
     "timeWeek": 532,
@@ -800,7 +800,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-14": 842,
+      "2023-08-14": 843,
       "2023-08-13": 1440,
       "2023-08-12": 433
     }
