@@ -53,8 +53,6 @@ sites:
     url: https://www.crenshawpeterson.com
   - name: Michigan Veterinary Medical Association		
     url: https://www.michvma.org
-  - name: MC - Senior Stages LLC		
-    url: https://www.seniorstagesllc.com
   - name: Open Arms Link		
     url: https://www.openarmslink.com/
   - name: Acme Home Exteriors		
@@ -203,6 +201,8 @@ sites:
     url: https://www.metactr.com
   - name: Judge Flores		
     url: https://www.retaintonyfloresforjudge.com
+  - name: SS - Groom Grub & Belly Rub
+    url: https://groomgr.superwebpros.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
