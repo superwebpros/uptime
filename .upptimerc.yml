@@ -203,6 +203,50 @@ sites:
     url: https://www.retaintonyfloresforjudge.com
   - name: SS - Groom Grub & Belly Rub
     url: https://groomgr.superwebpros.com
+  - name: SS - Paws Spa
+    url: https://pawsspa.superwebpros.com
+  - name: SS - Barking Lot 
+    url: https://barking.superwebpros.com
+  - name: SS - Heavenly Paws
+    url: https://heavenl.superwebpros.com
+  - name: SS - Larry's Laundromutt
+    url: https://larrysl.superwebpros.com
+  - name: SS - Fluff 'N Suds
+    url: https://fluffns.superwebpros.com
+  - name: SS - Pampered Paws
+    url: https://pampere.superwebpros.com
+  - name: SS - Dog's Day Out 
+    url: https://dogsday.superwebpros.com
+  - name: SS - Vip Pet Spa
+    url: https://vippets.superwebpros.com
+  - name: SS - Heights Pet Grooming
+    url: https://heights.superwebpros.com
+  - name: SS - Ruff's Luxury Inn
+    url: https://rufflux.superwebpros.com
+  - name: SS - Dirty Paws
+    url: https://dirtypa.superwebpros.com
+  - name: SS - Fur The Love of Dogs
+    url: https://furthel.superwebpros.com
+  - name: SS - Kitty's Canine Clips
+    url: https://kittysc.superwebpros.com
+  - name: SS - Pets of Perfection
+    url: https://petsofp.superwebpros.com
+  - name: SS - Your Dog's Best Friends
+    url: https://yourdog.superwebpros.com
+  - name: SS - Bonita Dog Grooming
+    url: https://bonitad.superwebpros.com
+  - name: SS - Fancy Paws
+    url: https://fancypa.superwebpros.com
+  - name: SS - Club Pooch
+    url: https://clubpoo.superwebpros.com
+  - name: SS - Mudpuppy's
+    url: https://mudpupp.superwebpros.com
+  - name: SS - Pawfection
+    url: https://pawfect.superwebpros.com
+  - name: SS - Suds 'Em Yourself
+    url: https://sudsemy.superwebpros.com
+  - name: SS - Annandale Pet Spa 
+    url: https://annanda.superwebpros.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
