@@ -1,7 +1,7 @@
 url: https://www.rekapvoice.com
-status: down
-code: 403
+status: up
+code: 200
 responseTime: 407
-lastUpdated: 2023-09-29T10:38:47.579Z
+lastUpdated: 2023-09-29T10:46:04.076Z
 startTime: 2023-08-12T16:46:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
