@@ -305,7 +305,7 @@
     "uptime": "48.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.70%",
+    "uptimeMonth": "78.72%",
     "uptimeYear": "48.28%",
     "time": 627,
     "timeDay": 275,
@@ -600,7 +600,7 @@
     "timeMonth": 385,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2023-10-07": 1184,
+      "2023-10-07": 1190,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -729,7 +729,7 @@
     "timeMonth": 357,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2023-10-07": 1184,
+      "2023-10-07": 1190,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -869,19 +869,19 @@
     "url": "https://aweepublishingco.com",
     "icon": "https://icons.duckduckgo.com/ip3/aweepublishingco.com.ico",
     "slug": "a-wee-publishing-co",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 627,
-    "timeDay": 344,
-    "timeWeek": 413,
-    "timeMonth": 501,
-    "timeYear": 627,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 626,
+    "timeDay": 454,
+    "timeWeek": 430,
+    "timeMonth": 502,
+    "timeYear": 626,
     "dailyMinutesDown": {
-      "2023-10-07": 1
+      "2023-10-07": 7
     }
   },
   {
@@ -993,7 +993,7 @@
     "uptime": "31.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "47.52%",
+    "uptimeMonth": "47.53%",
     "uptimeYear": "31.38%",
     "time": 585,
     "timeDay": 370,
@@ -1239,7 +1239,7 @@
     "slug": "jacksons-moving-llc",
     "status": "up",
     "uptime": "98.18%",
-    "uptimeDay": "37.73%",
+    "uptimeDay": "38.19%",
     "uptimeWeek": "85.57%",
     "uptimeMonth": "96.65%",
     "uptimeYear": "98.18%",
@@ -1597,11 +1597,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/epifanynow.org.ico",
     "slug": "e-pi-fany-now",
     "status": "up",
-    "uptime": "97.92%",
+    "uptime": "97.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.17%",
-    "uptimeYear": "97.92%",
+    "uptimeYear": "97.93%",
     "time": 816,
     "timeDay": 305,
     "timeWeek": 349,
@@ -1778,18 +1778,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/insurancesavingsmichigan.com.ico",
     "slug": "rufus-jackson-landing-page",
     "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "60.81%",
-    "uptimeWeek": "94.40%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "99.30%",
+    "uptime": "99.29%",
+    "uptimeDay": "60.36%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.29%",
     "time": 302,
     "timeDay": 583,
     "timeWeek": 318,
     "timeMonth": 296,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-10-07": 564
+      "2023-10-07": 571
     }
   },
   {
@@ -1799,9 +1799,9 @@
     "slug": "prodigal-pilgrim",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "60.92%",
-    "uptimeWeek": "94.42%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "60.47%",
+    "uptimeWeek": "94.35%",
+    "uptimeMonth": "98.70%",
     "uptimeYear": "99.30%",
     "time": 152,
     "timeDay": 137,
@@ -1809,7 +1809,7 @@
     "timeMonth": 147,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-10-07": 563
+      "2023-10-07": 569
     }
   },
   {
@@ -1857,18 +1857,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.godsdough.com.ico",
     "slug": "gods-dough",
     "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "62.16%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.32%",
+    "uptimeDay": "61.70%",
+    "uptimeWeek": "94.53%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.32%",
     "time": 166,
     "timeDay": 218,
     "timeWeek": 176,
     "timeMonth": 163,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2023-10-07": 545
+      "2023-10-07": 551
     }
   },
   {
@@ -1984,7 +1984,7 @@
     "timeMonth": 302,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2023-10-07": 1184,
+      "2023-10-07": 1190,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -2137,7 +2137,7 @@
     "timeMonth": 0,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2023-10-07": 1184,
+      "2023-10-07": 1191,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -2433,9 +2433,9 @@
     "slug": "ss-kitty-s-canine-clips",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "61.33%",
-    "uptimeWeek": "94.48%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "60.88%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "98.71%",
     "uptimeYear": "99.27%",
     "time": 343,
     "timeDay": 554,
@@ -2443,7 +2443,7 @@
     "timeMonth": 276,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2023-10-07": 557
+      "2023-10-07": 563
     }
   },
   {
@@ -2470,18 +2470,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/yourdog.superwebpros.com.ico",
     "slug": "ss-your-dog-s-best-friends",
     "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "61.41%",
-    "uptimeWeek": "94.49%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.27%",
+    "uptimeDay": "60.96%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "99.27%",
     "time": 273,
     "timeDay": 558,
     "timeWeek": 292,
     "timeMonth": 269,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2023-10-07": 556
+      "2023-10-07": 562
     }
   },
   {
